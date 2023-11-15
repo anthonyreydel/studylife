@@ -38,9 +38,9 @@ with a midi keyboard https://dl.acm.org/doi/10.1145/3123514.3123560
 
 -   Some studies focus on the relation between the user and the UI, namely, how should users interact with the Mixed Reality? How should users move, select, pick up or high light? With gestures? Voices? Eye tracking? Or some external devices? 
 
--   Some studies focus on how to deal with different user conditions. What if there are more than one user? Because there has to be more than one user. Some users might have accessibility requirements; some users might have to collaborate remotely with each other; some users might just be very lazy and don't want to do special hand gestures like a ninja or italian.
+-   And some other studies focus on how to deal with different user conditions. What if there are more than one user? Because there has to be more than one user. Some users might have accessibility requirements; some users might have to collaborate remotely with each other; some users might just be very lazy and don't want to do special hand gestures like a ninja or italian.
 
--   And some studies focus on how to deal with the complexity of User Interfaces themselves. Every possible way that can help a user interact with the Mixed Reality, could also hinder it. How should we present the rich information so that it's clear and easy for the user to comprehend and manipulate? To be more concrete, for example, which sound should be louder? Which layer of User Interfaces should be in front of another? Should the virtual object cover the real one, or the other way around?
+-   And there are some studies focusing on how to deal with the complexity of User Interfaces themselves. Every possible way that can help a user interact with the Mixed Reality, could also hinder it. How should we present the rich information so that it's clear and easy for the user to comprehend and manipulate? To be more concrete, for example, which sound should be louder? Which layer of User Interfaces should be in front of another? Should the virtual object cover the real one, or the other way around?
 
 -   Ok, enough questions. This sums up my findings, or my questions, so far. In the following steps I'll try to refine this into a more specific thema. Thank you for your listening.
 
@@ -50,12 +50,12 @@ with a midi keyboard https://dl.acm.org/doi/10.1145/3123514.3123560
 
 -   Mixed Reality is all about interaction. In its User Interface design, every interaction between every element should be considered. That's why I call it "Permutation of Interactions".
 
--    My literature review focuses on the User Interface Design in Mixed Reality. The studies that I've collected in this field can be classified based on the permutation of two keywords, the User and UI.
+-    My literature review focuses on the User Interface Design in Mixed Reality, and it's based on the permutation of two keywords, the User and UI.
 
--   Some studies focus on the relation between the user and the UI, namely, how should users interact with the Mixed Reality? How should users move, select or pick up? With gestures? Voices? Or some external devices? 
+-   The majority of the studies focus on the relation between the user and the UI. Namely, how should the user use the UI to interact with the Mixed Reality World?
 
--   Some studies focus on how to deal with different user conditions. What if there are more than one user? Because there has to be more than one user. And different users have different needs.
+-   Some other studies focus on how to deal with different user conditions. What if there are more than one user? Because there has to be more than one user. And different users have different needs.Some users might have accessibility requirements; some users might have to collaborate remotely with each other.
 
--   And some studies focus on how to deal with the complexity of User Interfaces themselves. Every possible way that can help a user interact with the Mixed Reality, could also hinder it. How should we present the rich information and choices, correctly?
+-   And there are a few studies focusing on how to deal with the complexity of User Interfaces themselves. Every possible way that can help a user interact with the Mixed Reality, could also hinder it. How should we present the rich information and choices, correctly?
 
--   This sums up my findings, or my questions, so far. In the following steps I'll try to refine this into a more specific thema. Thank you for your listening.
+-   This sums up my findings, or my questions, so far. Thank you for your listening.
